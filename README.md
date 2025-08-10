@@ -1,2 +1,2 @@
-# 2025-3-javascript--Mar-a-G-Serna-Dom-nguez-
+# 2025-3-javascript--MariaGSernaDominguez
 Mi progreso en el curso de JavaScript Fundamentals
